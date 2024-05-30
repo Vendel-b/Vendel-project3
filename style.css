@@ -1,0 +1,38 @@
+body{
+  text-align: justify;
+  font-style: monospace;
+
+}
+h1{
+text-align: center;
+text-decoration: underline;
+font-variant: small-caps;
+}
+h3{
+  text-decoration: underline ;
+  text-underline-offset: 5px;
+  font-variant: small-caps;
+}
+h4{
+  color: white;
+  text-align: center;
+  font-variant: small-caps;
+ 
+}
+span{
+  font-weight: bold;
+  text-size-adjust: 20px;
+}
+ul{
+  list-style-type: square;
+  margin-left: 20px;
+  text-align: justify;
+}
+ #drift{
+  font-size: 25px;
+  font-variant: small-caps;
+  
+ }
+ .table-img {
+  width: 100px;
+  height: auto;}
